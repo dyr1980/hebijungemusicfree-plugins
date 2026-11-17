@@ -2,7 +2,11 @@
 """musicfree-plugins 仓库检查脚本 v2：精确提取元数据做三方核对"""
 import json, os, re, sys
 
+<<<<<<< HEAD
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # scripts/ 上一级 = 仓库根
+=======
+ROOT = r"C:\Users\ajun\Desktop\tvbox\music"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 PLUGINS = os.path.join(ROOT, "plugins")
 
 def extract_meta(fn):

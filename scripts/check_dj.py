@@ -2,7 +2,11 @@
 """检查 17 个 DJ 插件 + cctv/dj6/xiangsheng 的 platform 字段"""
 import os, re
 
+<<<<<<< HEAD
 PLUGINS = os.path.join(ROOT, "plugins")
+=======
+PLUGINS = r"C:\Users\ajun\Desktop\tvbox\music\plugins"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 files = [
  '172mix-source.plugin.v1.0.0.js','36dj-source.plugin.v1.0.0.js','54dj-source.plugin.v1.0.0.js',
  '82dj-source.plugin.v1.0.0.js','bibdj-source.plugin.v1.0.0.js','ddddj-source.plugin.v1.0.0.js',

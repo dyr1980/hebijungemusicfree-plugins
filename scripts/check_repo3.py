@@ -2,7 +2,11 @@
 """v3: 展开常量，精确获取所有插件真实 name/platform/version"""
 import json, os, re
 
+<<<<<<< HEAD
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # scripts/ 上一级 = 仓库根
+=======
+ROOT = r"C:\Users\ajun\Desktop\tvbox\music"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 PLUGINS = os.path.join(ROOT, "plugins")
 
 with open(os.path.join(ROOT, "plugins.json"), encoding="utf-8-sig") as f:

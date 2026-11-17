@@ -4,7 +4,10 @@ state/
 node_modules/
 package.json
 package-lock.json
+<<<<<<< HEAD
 
 # 接口/逆向文档只在本地留存（全盘汇总 449 份），不随公开仓库发布
 # 需要提交某份时显式 git add -f docs/<文件>
 docs/
+=======
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94

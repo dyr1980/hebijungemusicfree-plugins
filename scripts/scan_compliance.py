@@ -2,7 +2,11 @@
 """skill 合规扫描：检查所有插件元数据字段与方法完整性"""
 import json, os, re
 
+<<<<<<< HEAD
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # scripts/ 上一级 = 仓库根
+=======
+ROOT = r"C:\Users\ajun\Desktop\tvbox\music"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 PLUGINS = os.path.join(ROOT, "plugins")
 
 with open(os.path.join(ROOT, "plugins.json"), encoding="utf-8-sig") as f:

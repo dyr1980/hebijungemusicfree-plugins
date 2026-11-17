@@ -2,7 +2,11 @@
 """agg name 修正：内部 name '聚合源' -> '聚合'，20 个清单同步"""
 import json, os
 
+<<<<<<< HEAD
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # scripts/ 上一级 = 仓库根
+=======
+ROOT = r"C:\Users\ajun\Desktop\tvbox\music"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 PLUGINS = os.path.join(ROOT, "plugins")
 
 # 1. 插件内部 name

@@ -2,7 +2,11 @@
 """修复脚本：1) 重命名 17 个 DJ 插件（文件名版本对齐内部版本） 2) 更新全部 20 个清单 JSON 的 URL"""
 import json, os, re, shutil
 
+<<<<<<< HEAD
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # scripts/ 上一级 = 仓库根
+=======
+ROOT = r"C:\Users\ajun\Desktop\tvbox\music"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 PLUGINS = os.path.join(ROOT, "plugins")
 
 # 重命名映射: 旧文件名 -> 新文件名（按插件内部 version 对齐）

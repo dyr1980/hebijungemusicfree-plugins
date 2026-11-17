@@ -2,7 +2,11 @@
 """修正补 name：只检查导出对象开头 3000 字符（元数据区）"""
 import os, re
 
+<<<<<<< HEAD
 PLUGINS = os.path.join(ROOT, "plugins")
+=======
+PLUGINS = r"C:\Users\ajun\Desktop\tvbox\music\plugins"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 ADD_NAME = {
     "kugou-source.plugin.v1.9.14.js": "酷狗音乐",
     "kuwo-source.plugin.v1.9.14.js": "酷我音乐",

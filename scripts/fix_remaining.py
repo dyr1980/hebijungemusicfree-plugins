@@ -2,7 +2,11 @@
 """补全剩余：missevan/srcUrl + 遗留旧文件 srcUrl + huolongdj v1.0.0 name"""
 import os, re
 
+<<<<<<< HEAD
 PLUGINS = os.path.join(ROOT, "plugins")
+=======
+PLUGINS = r"C:\Users\ajun\Desktop\tvbox\music\plugins"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 
 # 需要补 srcUrl 的文件（清单收录 + 遗留旧文件；排除已有顶层 srcUrl 的）
 ADD_SRC = [

@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 import re, os
+<<<<<<< HEAD
 PLUGINS = os.path.join(ROOT, "plugins")
+=======
+PLUGINS = r"C:\Users\ajun\Desktop\tvbox\music\plugins"
+>>>>>>> 7d1d37c76d20e31dc34c45186f78b838c2eb9e94
 for fn in ['172mix-source.plugin.v1.0.0.js','djkk-source.plugin.v1.0.0.js',
            'ximalaya-source.plugin.v1.0.0-r2.js','joox-source.plugin.v1.1.0.js',
            'djduoduo-source.plugin.v1.0.0.js','missevan-source.plugin.v1.0.0.js',
