@@ -1,0 +1,707 @@
+{
+  "desc": "澜音（CeruMusic）v2 插件 · 由 MusicFree 插件适配 · 共 57 个",
+  "usage": "本文件是展示清单，不是澜音订阅格式。在澜音「插件管理 → 添加插件」中粘贴单个 .js 的加速直链，或下载本地导入；raw.githubusercontent.com 在国内常被重置。",
+  "mirrorUrl": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins.json",
+  "rawPrefix": "https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/",
+  "fastPrefix": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/",
+  "pagesPrefix": "https://hebijunge.github.io/musicfree-plugins/ceru-plugins/",
+  "plugins": [
+    {
+      "name": "001《爱情时代》",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/xiangsheng-pingshu-source.plugin.ceru.js",
+      "version": "1.0.3",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "561ced487755627350e9712fc3e98efa7a762087bb434d3636ab434da924bd68"
+    },
+    {
+      "name": "5sing",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/5sing-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "importMusicSheet"
+      ],
+      "sha256": "2c1fd260bb90d886411736da5a9f88c2b165fc0cf06d23e2fd8e27b747397edd"
+    },
+    {
+      "name": "73DJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/73dj-source.plugin.ceru.js",
+      "version": "1.0.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric"
+      ],
+      "sha256": "fb0ae1f9d9beb7b43620214ebc02da1b1e9292a9240490883ccd8d429e45aab5"
+    },
+    {
+      "name": "宝贝DJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/bibdj-source.plugin.ceru.js",
+      "version": "1.2.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "2a9dac1ba131205963ce0ef16e15029a49f5f7152f61881ec96b20ceed8a3f1b"
+    },
+    {
+      "name": "波比DJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/bobidj-source.plugin.ceru.js",
+      "version": "1.0.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "1239f09c28d719233cd11249f8154b6acb5e3040ac1442fd1402a788dc9d2f29"
+    },
+    {
+      "name": "串烧舞曲",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/36dj-source.plugin.ceru.js",
+      "version": "1.2.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "67a7eb48fdce2e27f20d6d3266b7c9a994280a0af12380bdc3defc4bd988b30d"
+    },
+    {
+      "name": "串烧舞曲",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/82dj-source.plugin.ceru.js",
+      "version": "1.2.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "e6bec2d38154d613ebd6ae700ab6faa6844912754ff96712a747fa57b1165852"
+    },
+    {
+      "name": "串烧舞曲",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/ddddj-source.plugin.ceru.js",
+      "version": "1.2.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "b6cf6937c073fcd2ec60afdfbf7741370575f975d3e0c8d39085c76c1c1ef6e0"
+    },
+    {
+      "name": "纯音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/htqyy-source.plugin.ceru.js",
+      "version": "1.2.3",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "07f9c5a10c723cdb2438ab755cff0c2aae01d90be6c442fda736c26b8b693100"
+    },
+    {
+      "name": "电音阁",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/dianyinge-source.plugin.ceru.js",
+      "version": "1.1.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "5ad06b3e80a4546ec7400cbbc98c0a2e538f604cb771ef7a6285e8d9ec25c6e0"
+    },
+    {
+      "name": "番茄畅听",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/fanqie-source.plugin.ceru.js",
+      "version": "1.3.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "93d1465e956b36d564a4eee8f1cbd280bef718cea7b079d3357a289dc96e8c1d"
+    },
+    {
+      "name": "黑色音频",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/hy57-source.plugin.ceru.js",
+      "version": "1.1.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "5ecba42d1bcde7c3017b7af991e50a09143b7cbb52e67e7da43cbb8e37306031"
+    },
+    {
+      "name": "华为音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/hwmusic-source.plugin.ceru.js",
+      "version": "1.0.3",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "70dd33e085fb5b5301d9de4e07e11cbc20e8d4b0516b2539764b4ce63dfc43cf"
+    },
+    {
+      "name": "火龙DJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/huolongdj-source.plugin.ceru.js",
+      "version": "1.0.4",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "3eefdb8ad04570be81c6654b3a1b905712c1e2267e838c96b8b0be43a96631d0"
+    },
+    {
+      "name": "街声",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/streetvoice-source.plugin.ceru.js",
+      "version": "1.0.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "d8eb31abdc9be97edd0e996c5ea55327a158e9a5c5b2d6ae0c8340dd11694b68"
+    },
+    {
+      "name": "酷狗音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/kugou-source.plugin.ceru.js",
+      "version": "1.9.24",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "f48f99d25252dab9810010f9d1aeb489acbf82db9a997fe389bc652ac4799ad9"
+    },
+    {
+      "name": "酷我音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/kuwo-source.plugin.ceru.js",
+      "version": "1.9.24",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "d2befd57fff128b4290daea3574ded679c6c9f2facfed3e400057ebcbddaa8b2"
+    },
+    {
+      "name": "快音",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/kuaiyin-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "4ee27bf5662597c10b4ff5a429398ac1133c74a396165a38632996d232e2768e"
+    },
+    {
+      "name": "懒人听书",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/lrts-source.plugin.ceru.js",
+      "version": "1.0.3",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "importMusicSheet"
+      ],
+      "sha256": "2a8765661497de4806fa520ba8442106b435c467401ba0b8b1f90c1e97e6e3bf"
+    },
+    {
+      "name": "荔枝FM",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/lizhi-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric"
+      ],
+      "sha256": "2dc5385746d012abb9e46e6107d504ebe594128a9924c4c38e42e9094ef61cf9"
+    },
+    {
+      "name": "猫耳FM",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/missevan-source.plugin.ceru.js",
+      "version": "1.0.3",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "5308a22fbd142e86b1994e4b2d2fa924ccc7d50750b1b3e0b1cdd00def93b55e"
+    },
+    {
+      "name": "魅力DJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/djmei-source.plugin.ceru.js",
+      "version": "1.0.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "df091b071c29c75a2ec57206fae737aeff183000f9d9887affcdb4839c62fd83"
+    },
+    {
+      "name": "咪咕音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/migu-source.plugin.ceru.js",
+      "version": "1.9.20",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "429924ab1b29baf84c22c34e0ada168b992489e526f4270d4d82ae2cc40fa7df"
+    },
+    {
+      "name": "千千音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/qianqian-source.plugin.ceru.js",
+      "version": "1.0.4",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "ae4bd28f4c620b723d04590f5d06bf53d7854707578535ef40ad1f3220f5dcfe"
+    },
+    {
+      "name": "蜻蜓FM",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/qingting-source.plugin.ceru.js",
+      "version": "1.0.3",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "45d3372157a1e50c862b022e787da16c0ac46e35bd290603b93d83b87d29c4da"
+    },
+    {
+      "name": "少年读物",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/bokantingshu-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "importMusicSheet"
+      ],
+      "sha256": "46269378282b515f3e3f3cc9092588abd8c8559fbf3e2c7f76663b0cd306cda5"
+    },
+    {
+      "name": "水晶舞曲",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/dj14-source.plugin.ceru.js",
+      "version": "1.2.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getTopLists"
+      ],
+      "sha256": "c4244d05b654c9f38a8403a30cde72ef429076229bf8cc60c91735735f978673"
+    },
+    {
+      "name": "网易云电台",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/neteaseradio-source.plugin.ceru.js",
+      "version": "1.1.3",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric"
+      ],
+      "sha256": "a297d4552c2738887bb9a9db1ce83c7760361e4898ac1b218ea44ba5d67b2ce9"
+    },
+    {
+      "name": "网易云音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/netease-source.plugin.ceru.js",
+      "version": "1.9.27",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "6812719c698e77de703ab22f32c92fd19b9340ec789efddd437ccf18e99f0653"
+    },
+    {
+      "name": "我是DJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/54dj-source.plugin.ceru.js",
+      "version": "1.1.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "9903569354d8f72ce45b994ba2d0cfd78051ebc1dec3d9a53962105a3f93ff64"
+    },
+    {
+      "name": "喜马拉雅",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/ximalaya-source.plugin.ceru.js",
+      "version": "1.2.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "7cc936fe172edb1e971fc2e70acc3b3ac3818703d612275de582388892920ae7"
+    },
+    {
+      "name": "先上DJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/xsdj123-source.plugin.ceru.js",
+      "version": "1.1.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "4cc678aca2f8af528dcaeb5df27f5bc211636f7b8eacb29abc44b077dd7587b5"
+    },
+    {
+      "name": "现场串烧",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/qqdjs-source.plugin.ceru.js",
+      "version": "1.2.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "6adfdf44979911ca0d1749485613fad3fe79d51ce8d974a3b2c5fb78229d45bf"
+    },
+    {
+      "name": "小熊电音",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/xxedm-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric"
+      ],
+      "sha256": "ac7049dadbf34b258103b7e4748f58615ab6549118f13e994e262e9b4d06f33c"
+    },
+    {
+      "name": "一听音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/1ting-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "eeeaeb9eda36fe34b85aae666b4d337b3a94be6afb7bd665bc83fba4d11aa08a"
+    },
+    {
+      "name": "agg",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/agg-source.plugin.ceru.js",
+      "version": "1.9.19",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "9d6b9b6b1fd00685e07ffa6040c3796566d18a22be3332af2df89686a5b6709e"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/apple-music.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "adb3979b72c5349d367fa1233faac81ba9dc658477f591c44017ad920213b780"
+    },
+    {
+      "name": "B站",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/bilibili-source.plugin.ceru.js",
+      "version": "1.1.4",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "e8cd9ce1bbb2939afd8e15af671dec4b195689438dc7056a1496569630bc2c11"
+    },
+    {
+      "name": "CCTV听音",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/cctv-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "2cfafdb6c7321bc34207cea2d9a34747380d5ac8d854b1655035ddf9d4b170a0"
+    },
+    {
+      "name": "DJ6",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/dj6-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "fb943acee9fe19a866eec3fff8cca2a496527fcef3cbd8867e9e3f83c8fc89b4"
+    },
+    {
+      "name": "DJ766",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/dj766-source.plugin.ceru.js",
+      "version": "1.4.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "a7c646d419d32cf042c3f329caeb266061d30ca248f51300a392396ea735e50f"
+    },
+    {
+      "name": "DJ多多",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/djduoduo-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "0dd072ff4a4735ab759643d207af822fbc7160902646ecc8141ab577a57864fe"
+    },
+    {
+      "name": "DJ耶耶耶",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/djyyy-source.plugin.ceru.js",
+      "version": "1.1.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getTopLists"
+      ],
+      "sha256": "240024a7a889a8399e29a59e6f9e44745c16223d87645fac951fa86d6b0386cc"
+    },
+    {
+      "name": "DJ娱乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/djyule-source.plugin.ceru.js",
+      "version": "1.2.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "c18f9c4fbeb60f9d4d9f04d4d3ccc78a0f36e572549316efb94de17e9ed80e14"
+    },
+    {
+      "name": "djkk",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/djkk-source.plugin.ceru.js",
+      "version": "1.1.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "4d10b201618c6be83d54e625958a730083585a9bf1e856bc067669e008da9442"
+    },
+    {
+      "name": "djshow",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/djshow.plugin.ceru.js",
+      "version": "1.0.4",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "c3ff63933897e82165b942e47f56c9117c74751c7d32cd27e735a020478c44c8"
+    },
+    {
+      "name": "djuu",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/djuu-source.plugin.ceru.js",
+      "version": "1.1.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "88e7be9a13221e8f32ab7b5adb1b00754f802c2621dc8f16015fb175aeb6b7b4"
+    },
+    {
+      "name": "Jamendo",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/jamendo-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "553f66a21c2cbf2e2d8163ad8015f3bbf7d4af471532894ffbb7cd487b5c7c06"
+    },
+    {
+      "name": "JOOX音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/joox-source.plugin.ceru.js",
+      "version": "1.1.3",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric"
+      ],
+      "sha256": "045180d165eb40a4835ff414ff92764633e095b8785a0ff873eb264ebba4e8bf"
+    },
+    {
+      "name": "M2103K19C",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/djcsj-source.plugin.ceru.js",
+      "version": "1.0.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "5c2f286d9454dc93cc92f862f48a4063d0cb3eb6911ec7f906495e0fd864ab00"
+    },
+    {
+      "name": "MixDJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/mixdj-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "e70afc4579187e998337225a8ff61751ab2132f26e6c9d0c8f624b7d013758a4"
+    },
+    {
+      "name": "pgdjz",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/pgdjz-source.plugin.ceru.js",
+      "version": "1.1.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "f74b2ab5acddcf49102571cdcad57ca77e10df13fd2e8914e35be2a611f0ace0"
+    },
+    {
+      "name": "qishui",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/qishui-source.plugin.ceru.js",
+      "version": "1.9.23",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "1b190005687a545f4515042060ac746b2dc8bdc86ae69631dada15537255312e"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/qq-source.plugin.ceru.js",
+      "version": "1.9.26",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists",
+        "importMusicSheet"
+      ],
+      "sha256": "70e3c9a54ed92eb7d089f9383ce71ba86165fa4f1f4a5090c798fe9e34b630e4"
+    },
+    {
+      "name": "SpaceDJ",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/spacedj-source.plugin.ceru.js",
+      "version": "1.1.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "de5a493353d6136d51ec95790c9c5f4f961a4fe4e330e6effcfaeae723b22f4f"
+    },
+    {
+      "name": "Top40",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/172mix-source.plugin.ceru.js",
+      "version": "1.2.1",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "c069104714f9cb3715dc6798aecf0824c7d6608c1aa90ea3d231dd505cf907fa"
+    },
+    {
+      "name": "Y2002电音",
+      "url": "https://gh.padao.fun/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/ceru-plugins/y2002-source.plugin.ceru.js",
+      "version": "1.0.2",
+      "capabilities": [
+        "search",
+        "getMediaSource",
+        "getLyric",
+        "getTopLists"
+      ],
+      "sha256": "128be3c52728d0512beef4061a45e7a7b432f254ba510a0d7bd70b076c2f9e12"
+    }
+  ]
+}
